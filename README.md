@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on building a Transaction Management System<br>👯 I’m looking to collaborate on any open-source project<br>🤝 I’m looking for help with an individual to grow with<br>🌱 I’m currently learning React development and react-native<br>💬 Ask me about Web Development<br>
+🔭 I’m currently working on building a Transaction Management System<br>👯 I’m looking to collaborate on any open-source project<br>🤝 I’m looking for help with an individual to grow with<br>🌱 I’m currently learning React development and React-native<br>💬 Ask me about Web Development<br>🌱 Don't Forget to email me!<br>
 
 
 ## 🌐 Socials:
